@@ -11,4 +11,4 @@
 ### Project 3
 - Thread scheduling – priority scheduling
 
-![image](https://user-images.githubusercontent.com/53117014/87047268-3ebf4880-c235-11ea-9759-c33a10934ae0.png)
+![image](https://user-images.githubusercontent.com/53117014/87047582-abd2de00-c235-11ea-811d-4fc36ac620af.png)
