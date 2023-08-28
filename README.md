@@ -1,5 +1,6 @@
-# Pintos_Project
+# PintosProject
 
+## 2019학년도 2학기 운영체제 과제
 
 ### Project 1 
 - 핀토스 소스코드 분석
